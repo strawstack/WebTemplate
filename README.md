@@ -1,3 +1,3 @@
-# VueTemplate
+# WebTemplate
 
-A VueJS template project with CSS modules.
+A web template.
